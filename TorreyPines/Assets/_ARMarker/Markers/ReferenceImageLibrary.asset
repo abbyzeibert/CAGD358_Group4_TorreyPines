@@ -18,12 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4635741332808656079
-      m_GuidHigh: 13984011863404536204
+      m_GuidLow: 4695190069325490872
+      m_GuidHigh: 8443369376228094620
     m_SerializedTextureGuid:
-      m_GuidLow: 10935960758103965435
-      m_GuidHigh: 15994318053438090411
-    m_Size: {x: 0.0508, y: 0.0508}
+      m_GuidLow: 10224398458045277266
+      m_GuidHigh: 8698885567574740969
+    m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: fuse
+    m_Name: MarkerIcons03
     m_Texture: {fileID: 0}
