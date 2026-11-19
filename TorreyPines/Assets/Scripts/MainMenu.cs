@@ -20,7 +20,7 @@ public class MainMenu : MonoBehaviour
         tutorialScreen.SetActive(true);
     }
 
-    public void CloseTutorialScreen()
+    private void CloseTutorialScreen()
     {
         tutorialScreen.SetActive(false);
     }
