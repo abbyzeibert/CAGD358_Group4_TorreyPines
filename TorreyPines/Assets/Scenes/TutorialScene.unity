@@ -871,6 +871,7 @@ GameObject:
   - component: {fileID: 2512387470422636641}
   - component: {fileID: 2512387470422636642}
   - component: {fileID: 2512387470422636670}
+  - component: {fileID: 2512387470422636671}
   m_Layer: 0
   m_Name: XR Origin (AR Rig)
   m_TagString: Untagged
@@ -895,7 +896,23 @@ MonoBehaviour:
       m_Calls: []
   m_SerializedLibrary: {fileID: 11400000, guid: e9bfce5ea60e3894483fae40eb674a2f, type: 2}
   m_MaxNumberOfMovingImages: 0
-  m_TrackedImagePrefab: {fileID: 2547052561348946422, guid: e3d163ee7808828459595ec926093cee, type: 3}
+  m_TrackedImagePrefab: {fileID: 0}
+--- !u!114 &2512387470422636671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2512387470422636669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a92c8a021a706d94bbbd965581dbc469, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MultiScanManager
+  prefabsToSpawn:
+  - {fileID: 2547052561348946422, guid: e3d163ee7808828459595ec926093cee, type: 3}
+  - {fileID: 5632753493470877885, guid: a11e64ad19603c24199e0b9e23883b41, type: 3}
+  - {fileID: 4344330672232667190, guid: dace66208c859b94f98b4e5ee534d5c1, type: 3}
 --- !u!4 &2512387470860572925
 Transform:
   m_ObjectHideFlags: 0

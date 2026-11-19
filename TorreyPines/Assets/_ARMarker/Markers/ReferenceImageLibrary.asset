@@ -18,26 +18,6 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 4695190069325490872
-      m_GuidHigh: 8443369376228094620
-    m_SerializedTextureGuid:
-      m_GuidLow: 10224398458045277266
-      m_GuidHigh: 8698885567574740969
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: MarkerIcons03
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 5646685942437008674
-      m_GuidHigh: 12203904006790716088
-    m_SerializedTextureGuid:
-      m_GuidLow: 17993109229685605102
-      m_GuidHigh: 5724591378300010745
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: MarkerIcons01
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
       m_GuidLow: 4721177069481289103
       m_GuidHigh: 11763580514277144972
     m_SerializedTextureGuid:
@@ -46,4 +26,24 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: CoyoteQR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4733065512780558700
+      m_GuidHigh: 5606836348914393271
+    m_SerializedTextureGuid:
+      m_GuidLow: 2910643520097098996
+      m_GuidHigh: 10342385237155357226
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Mule_DeerQR
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5264987322161803247
+      m_GuidHigh: 15239955000915629491
+    m_SerializedTextureGuid:
+      m_GuidLow: 15426089994690231751
+      m_GuidHigh: 17093397168048568504
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Cottontail_RabbitQR
     m_Texture: {fileID: 0}
